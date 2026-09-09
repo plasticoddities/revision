@@ -622,5 +622,773 @@
     "hint": "Think about the Society & Culture concept being tested.",
     "source": "NESA HSC 2021 Q8",
     "sourceType": "Adapted from official HSC multiple-choice item"
+  },
+  {
+    "q": "Why should a researcher acknowledge every source used during research?",
+    "o": [
+      "To receive copyright payments",
+      "To protect intellectual property",
+      "To make the research biased",
+      "To notify every original author"
+    ],
+    "a": 1,
+    "e": "Acknowledging sources recognises and protects the intellectual property of original authors.",
+    "area": "HSC Continuity & Change",
+    "level": 2,
+    "hint": "Identify the Society & Culture concept or research principle being tested.",
+    "source": "NESA HSC 2020 Q1",
+    "sourceType": "Adapted from official HSC multiple-choice item"
+  },
+  {
+    "q": "Which scenario best shows power influencing sustainability at the meso level?",
+    "o": [
+      "A state bans single-use plastic bags",
+      "Students organise a national climate protest",
+      "Friends share a petition about sea turtles",
+      "A school creates an environmental group after pressure from parents"
+    ],
+    "a": 3,
+    "e": "A school is a meso-level institution, and parental pressure influences its sustainability action.",
+    "area": "HSC Continuity & Change",
+    "level": 3,
+    "hint": "Identify the Society & Culture concept or research principle being tested.",
+    "source": "NESA HSC 2020 Q2",
+    "sourceType": "Adapted from official HSC multiple-choice item"
+  },
+  {
+    "q": "Which sequence moves most clearly from quantitative toward qualitative research?",
+    "o": [
+      "Interview \u2192 content analysis \u2192 focus group",
+      "Statistical analysis \u2192 open questionnaire \u2192 observation",
+      "Participant observation \u2192 case study \u2192 personal reflection",
+      "Rating-scale questionnaire \u2192 structured interview \u2192 secondary research"
+    ],
+    "a": 3,
+    "e": "The official answer identifies the sequence beginning with a rating-scale questionnaire and moving toward methods allowing more qualitative interpretation.",
+    "area": "HSC Continuity & Change",
+    "level": 4,
+    "hint": "Identify the Society & Culture concept or research principle being tested.",
+    "source": "NESA HSC 2020 Q3",
+    "sourceType": "Adapted from official HSC multiple-choice item"
+  },
+  {
+    "q": "A researcher counts how often the word 'teenager' appears in newspapers across several decades. Which method produces this result?",
+    "o": [
+      "Observation",
+      "Content analysis",
+      "Statistical analysis",
+      "Secondary research"
+    ],
+    "a": 1,
+    "e": "Content analysis systematically examines media/texts and can quantify the occurrence of words or themes.",
+    "area": "HSC Continuity & Change",
+    "level": 2,
+    "hint": "Identify the Society & Culture concept or research principle being tested.",
+    "source": "NESA HSC 2020 Q4",
+    "sourceType": "Adapted from official HSC multiple-choice item"
+  },
+  {
+    "q": "A term spreads over decades from one country into newspapers in several different societies. Which processes best explain this pattern?",
+    "o": [
+      "Globalisation and structural change",
+      "Modernisation and resistance",
+      "Industrialisation and evolutionary change",
+      "Westernisation and transformative change"
+    ],
+    "a": 3,
+    "e": "The official key identifies westernisation and transformative change as the best fit for the supplied data.",
+    "area": "HSC Continuity & Change",
+    "level": 4,
+    "hint": "Identify the Society & Culture concept or research principle being tested.",
+    "source": "NESA HSC 2020 Q5",
+    "sourceType": "Adapted from official HSC multiple-choice item"
+  },
+  {
+    "q": "A researcher wants to investigate the opinions of several student leaders about a school breakfast program. Which procedure best fits?",
+    "o": [
+      "Prepare questions, organise a venue, moderate the participants, report findings",
+      "Select one participant and combine their answers with secondary research",
+      "Observe and tally group behaviour only",
+      "Distribute a closed/open questionnaire digitally"
+    ],
+    "a": 0,
+    "e": "This procedure describes a focus group: planned questions, a venue, moderation and reporting.",
+    "area": "HSC Continuity & Change",
+    "level": 3,
+    "hint": "Identify the Society & Culture concept or research principle being tested.",
+    "source": "NESA HSC 2020 Q6",
+    "sourceType": "Adapted from official HSC multiple-choice item"
+  },
+  {
+    "q": "Which social theory best accounts for a school breakfast program designed to meet a social need and support community cohesion?",
+    "o": [
+      "Conflict",
+      "Evolutionary",
+      "Functionalist",
+      "Socialist"
+    ],
+    "a": 2,
+    "e": "Functionalism focuses on the way institutions and practices contribute to social stability and functioning.",
+    "area": "HSC Continuity & Change",
+    "level": 3,
+    "hint": "Identify the Society & Culture concept or research principle being tested.",
+    "source": "NESA HSC 2020 Q7",
+    "sourceType": "Adapted from official HSC multiple-choice item"
+  },
+  {
+    "q": "What would an interactionist study of a school breakfast program focus on most strongly?",
+    "o": [
+      "How participation shapes student identities",
+      "Government control of the program",
+      "How the program becomes more complex over time",
+      "The allocation of program resources"
+    ],
+    "a": 0,
+    "e": "Interactionism focuses on meanings, identity and social interaction at the everyday level.",
+    "area": "HSC Continuity & Change",
+    "level": 3,
+    "hint": "Identify the Society & Culture concept or research principle being tested.",
+    "source": "NESA HSC 2020 Q8",
+    "sourceType": "Adapted from official HSC multiple-choice item"
+  },
+  {
+    "q": "Which method involves interpreting words and images to understand social life?",
+    "o": [
+      "Interview",
+      "Observation",
+      "Content analysis",
+      "Statistical analysis"
+    ],
+    "a": 2,
+    "e": "Content analysis examines cultural material such as written, visual or media content.",
+    "area": "HSC Continuity & Change",
+    "level": 2,
+    "hint": "Identify the Society & Culture concept or research principle being tested.",
+    "source": "NESA HSC 2019 Q1",
+    "sourceType": "Adapted from official HSC multiple-choice item"
+  },
+  {
+    "q": "Which is a meso-level example of westernisation?",
+    "o": [
+      "A school in Uganda celebrates Valentine's Day",
+      "A country elects a female prime minister",
+      "A Hollywood-wide gender equality movement",
+      "An individual orders Christmas decorations online"
+    ],
+    "a": 0,
+    "e": "A school is a meso-level institution, while Valentine's Day represents a Western cultural influence.",
+    "area": "HSC Continuity & Change",
+    "level": 3,
+    "hint": "Identify the Society & Culture concept or research principle being tested.",
+    "source": "NESA HSC 2019 Q2",
+    "sourceType": "Adapted from official HSC multiple-choice item"
+  },
+  {
+    "q": "Which example shows technology negatively affecting sustainability at the micro level?",
+    "o": [
+      "A council increases e-waste collections",
+      "A family replaces a television because replacement is cheaper than repair",
+      "A consumer uses an app to check palm-oil content",
+      "A household uses voice controls to switch off lights"
+    ],
+    "a": 1,
+    "e": "Replacing rather than repairing technology increases waste at the household/micro level.",
+    "area": "HSC Continuity & Change",
+    "level": 3,
+    "hint": "Identify the Society & Culture concept or research principle being tested.",
+    "source": "NESA HSC 2019 Q3",
+    "sourceType": "Adapted from official HSC multiple-choice item"
+  },
+  {
+    "q": "Which pair of theories has been criticised for difficulty accounting for social change?",
+    "o": [
+      "Evolutionary and conflict",
+      "Evolutionary and functionalist",
+      "Interactionist and functionalist",
+      "Interactionist and evolutionary"
+    ],
+    "a": 2,
+    "e": "The official answer is interactionist and functionalist.",
+    "area": "HSC Continuity & Change",
+    "level": 4,
+    "hint": "Identify the Society & Culture concept or research principle being tested.",
+    "source": "NESA HSC 2019 Q4",
+    "sourceType": "Adapted from official HSC multiple-choice item"
+  },
+  {
+    "q": "Millions of women publicly support a court decision allowing women into a significant temple. Which concepts are best demonstrated?",
+    "o": [
+      "Values, gender and authority",
+      "Identity, conflict and tradition",
+      "Power, change and technology",
+      "Power, beliefs and empowerment"
+    ],
+    "a": 3,
+    "e": "The collective action demonstrates empowerment linked to beliefs and challenges over power.",
+    "area": "HSC Continuity & Change",
+    "level": 4,
+    "hint": "Identify the Society & Culture concept or research principle being tested.",
+    "source": "NESA HSC 2019 Q5",
+    "sourceType": "Adapted from official HSC multiple-choice item"
+  },
+  {
+    "q": "Which action/reason pairing best demonstrates engagement with public knowledge and social-cultural literacy?",
+    "o": [
+      "Write a private journal to reflect on personal experience",
+      "Oppose arranged marriage online in order to judge another culture",
+      "Separate peers by religion to encourage cooperation",
+      "Buy fair-trade clothing to become aware of global poverty"
+    ],
+    "a": 3,
+    "e": "The fair-trade example connects individual action to awareness of a wider global issue without judging another culture.",
+    "area": "HSC Continuity & Change",
+    "level": 4,
+    "hint": "Identify the Society & Culture concept or research principle being tested.",
+    "source": "NESA HSC 2019 Q6",
+    "sourceType": "Adapted from official HSC multiple-choice item"
+  },
+  {
+    "q": "A researcher has limited time but wants to understand how and why a protest group operates. Which approach is best?",
+    "o": [
+      "Observe and tally all group actions",
+      "Target a small number of protesters for in-depth research",
+      "Randomly select a very large sample",
+      "Compare only numerical data with an old report"
+    ],
+    "a": 1,
+    "e": "A smaller targeted sample allows more detailed qualitative investigation of values and behaviour.",
+    "area": "HSC Continuity & Change",
+    "level": 3,
+    "hint": "Identify the Society & Culture concept or research principle being tested.",
+    "source": "NESA HSC 2019 Q7",
+    "sourceType": "Adapted from official HSC multiple-choice item"
+  },
+  {
+    "q": "Which action best supports ethical research into a protest group?",
+    "o": [
+      "Accommodate participants with special needs",
+      "Research covertly to avoid embarrassment",
+      "Write questions that confirm the researcher's prior beliefs",
+      "Use sensitive questions without adequate safeguards"
+    ],
+    "a": 0,
+    "e": "Ethical research considers participant needs and avoids covert or biased practices.",
+    "area": "HSC Continuity & Change",
+    "level": 2,
+    "hint": "Identify the Society & Culture concept or research principle being tested.",
+    "source": "NESA HSC 2019 Q8",
+    "sourceType": "Adapted from official HSC multiple-choice item"
+  },
+  {
+    "q": "Which scenario best demonstrates cooperation between micro and meso levels?",
+    "o": [
+      "An individual volunteers at an aged-care facility",
+      "A school committee raises money for a charity",
+      "A library limits internet access",
+      "A parent disputes a report mark"
+    ],
+    "a": 0,
+    "e": "An individual (micro) cooperates with an organisation/institution (meso).",
+    "area": "HSC Continuity & Change",
+    "level": 2,
+    "hint": "Identify the Society & Culture concept or research principle being tested.",
+    "source": "NESA HSC 2018 Q1",
+    "sourceType": "Adapted from official HSC multiple-choice item"
+  },
+  {
+    "q": "At which stage of social research should new theories or suggestions emerge?",
+    "o": [
+      "Writing the final report",
+      "Interpreting the findings",
+      "Considering the audience",
+      "Developing the methods"
+    ],
+    "a": 1,
+    "e": "New explanations or suggestions are developed while interpreting what the findings mean.",
+    "area": "HSC Continuity & Change",
+    "level": 3,
+    "hint": "Identify the Society & Culture concept or research principle being tested.",
+    "source": "NESA HSC 2018 Q2",
+    "sourceType": "Adapted from official HSC multiple-choice item"
+  },
+  {
+    "q": "Participant confidentiality and the special needs of vulnerable groups are especially relevant to which pair of methods?",
+    "o": [
+      "Observation and focus groups",
+      "Interview and secondary research",
+      "Questionnaire and content analysis",
+      "Statistical analysis and participant observation"
+    ],
+    "a": 0,
+    "e": "Observation and focus groups can directly involve participants and therefore require careful attention to consent, privacy and vulnerability.",
+    "area": "HSC Continuity & Change",
+    "level": 3,
+    "hint": "Identify the Society & Culture concept or research principle being tested.",
+    "source": "NESA HSC 2018 Q3",
+    "sourceType": "Adapted from official HSC multiple-choice item"
+  },
+  {
+    "q": "According to interactionist theory, why do gender roles exist?",
+    "o": [
+      "To minimise conflict",
+      "Because of social exchanges",
+      "To maximise efficiency",
+      "Because of division of labour"
+    ],
+    "a": 1,
+    "e": "Interactionism explains roles and meanings as being constructed and reinforced through social interaction.",
+    "area": "HSC Continuity & Change",
+    "level": 3,
+    "hint": "Identify the Society & Culture concept or research principle being tested.",
+    "source": "NESA HSC 2018 Q4",
+    "sourceType": "Adapted from official HSC multiple-choice item"
+  },
+  {
+    "q": "Electric-car sales fall in Australia but rise gradually in China. Which description best fits the trend?",
+    "o": [
+      "Resistance in China and structural change in Norway",
+      "Resistance in Australia and evolutionary change in China",
+      "Structural change in Australia and transformative change in Norway",
+      "Evolutionary change in China and transformative change in Australia"
+    ],
+    "a": 1,
+    "e": "The data indicate resistance in Australia and gradual/evolutionary change in China.",
+    "area": "HSC Continuity & Change",
+    "level": 4,
+    "hint": "Identify the Society & Culture concept or research principle being tested.",
+    "source": "NESA HSC 2018 Q5",
+    "sourceType": "Adapted from official HSC multiple-choice item"
+  },
+  {
+    "q": "National electric-car sales data would be most useful for which macro-level action?",
+    "o": [
+      "A dealership discount",
+      "A state public-transport campaign",
+      "A manufacturer's advertisement",
+      "A federal government tax incentive for electric-car drivers"
+    ],
+    "a": 3,
+    "e": "Federal government policy operates at the macro level and national data can justify such policy.",
+    "area": "HSC Continuity & Change",
+    "level": 3,
+    "hint": "Identify the Society & Culture concept or research principle being tested.",
+    "source": "NESA HSC 2018 Q6",
+    "sourceType": "Adapted from official HSC multiple-choice item"
+  },
+  {
+    "q": "Which example best shows technology affecting both personal identity and tradition?",
+    "o": [
+      "Sharing fitness images",
+      "Email contributing to fewer Christmas cards",
+      "Using online dating to meet a partner",
+      "A prime minister rejects an online campaign"
+    ],
+    "a": 2,
+    "e": "Online dating affects individual identity/relationships while also changing traditions surrounding how partners meet.",
+    "area": "HSC Continuity & Change",
+    "level": 4,
+    "hint": "Identify the Society & Culture concept or research principle being tested.",
+    "source": "NESA HSC 2018 Q7",
+    "sourceType": "Adapted from official HSC multiple-choice item"
+  },
+  {
+    "q": "Which example best shows authority producing transformative change?",
+    "o": [
+      "Local drought water restrictions",
+      "Social media coordinating election protests",
+      "A referendum leading to legal recognition of same-sex marriage",
+      "A company introducing the smartphone"
+    ],
+    "a": 2,
+    "e": "The referendum and resulting legislation involve legitimate authority and substantial structural/legal change.",
+    "area": "HSC Continuity & Change",
+    "level": 4,
+    "hint": "Identify the Society & Culture concept or research principle being tested.",
+    "source": "NESA HSC 2018 Q8",
+    "sourceType": "Adapted from official HSC multiple-choice item"
+  },
+  {
+    "q": "A national government requires all primary students to attend a learn-to-swim program. Which fundamental concept is most clearly demonstrated?",
+    "o": [
+      "Culture",
+      "Environment",
+      "Persons",
+      "Time"
+    ],
+    "a": 0,
+    "e": "The mandated program reflects a shared Australian cultural practice/value around swimming and water safety.",
+    "area": "HSC Continuity & Change",
+    "level": 3,
+    "hint": "Identify the Society & Culture concept or research principle being tested.",
+    "source": "NESA HSC 2017 Q1",
+    "sourceType": "Adapted from official HSC multiple-choice item"
+  },
+  {
+    "q": "Which set of sources belongs most clearly to a person's macro world?",
+    "o": [
+      "Diary, newspapers, study notes",
+      "Social media, texts, email",
+      "Television, documentaries, home movies",
+      "Textbooks, academic articles, celebrity biographies"
+    ],
+    "a": 3,
+    "e": "These are forms of public knowledge operating beyond immediate personal relationships.",
+    "area": "HSC Continuity & Change",
+    "level": 3,
+    "hint": "Identify the Society & Culture concept or research principle being tested.",
+    "source": "NESA HSC 2017 Q2",
+    "sourceType": "Adapted from official HSC multiple-choice item"
+  },
+  {
+    "q": "Which example best demonstrates conflict between authority and individual empowerment?",
+    "o": [
+      "A student leads a campaign against her school's uniform",
+      "An employee is dismissed for racist behaviour",
+      "A principal is criticised over canteen drinks",
+      "A union delegate meets developers about safety"
+    ],
+    "a": 0,
+    "e": "The student challenges school authority while attempting to empower herself and others to change policy.",
+    "area": "HSC Continuity & Change",
+    "level": 3,
+    "hint": "Identify the Society & Culture concept or research principle being tested.",
+    "source": "NESA HSC 2017 Q3",
+    "sourceType": "Adapted from official HSC multiple-choice item"
+  },
+  {
+    "q": "Which example best demonstrates sustainability at the macro level?",
+    "o": [
+      "A council starts community recycling",
+      "A school shop recycles uniforms",
+      "A television station gives an environmental group free advertising",
+      "A restaurant chain rewards reusable cups"
+    ],
+    "a": 3,
+    "e": "A large restaurant chain can operate across society on a broad scale; the official key identifies this as the macro example.",
+    "area": "HSC Continuity & Change",
+    "level": 4,
+    "hint": "Identify the Society & Culture concept or research principle being tested.",
+    "source": "NESA HSC 2017 Q4",
+    "sourceType": "Adapted from official HSC multiple-choice item"
+  },
+  {
+    "q": "Long-term smoking-rate data are most useful for which purpose?",
+    "o": [
+      "Predicting future health budgeting",
+      "Funding youth anti-smoking campaigns",
+      "Explaining why individuals stopped smoking",
+      "Measuring the effect of plain packaging introduced later"
+    ],
+    "a": 0,
+    "e": "Longitudinal quantitative data can be used to identify trends and inform future planning/budgeting.",
+    "area": "HSC Continuity & Change",
+    "level": 3,
+    "hint": "Identify the Society & Culture concept or research principle being tested.",
+    "source": "NESA HSC 2017 Q5",
+    "sourceType": "Adapted from official HSC multiple-choice item"
+  },
+  {
+    "q": "A steady fall in smoking rates from 1960 to 2010 best demonstrates the relationship between:",
+    "o": [
+      "Evolutionary change and identity",
+      "Transformative change and identity",
+      "Evolutionary change and generations",
+      "Transformative change and generations"
+    ],
+    "a": 2,
+    "e": "The gradual long-term decline is evolutionary and can be compared across generations.",
+    "area": "HSC Continuity & Change",
+    "level": 3,
+    "hint": "Identify the Society & Culture concept or research principle being tested.",
+    "source": "NESA HSC 2017 Q6",
+    "sourceType": "Adapted from official HSC multiple-choice item"
+  },
+  {
+    "q": "Which example best shows modernisation interacting with authority?",
+    "o": [
+      "Automation of car manufacturing",
+      "Rising public-sector wages",
+      "Digital collection of national census data",
+      "Protests over motorway construction"
+    ],
+    "a": 2,
+    "e": "A national authority adopting digital technology to collect census data combines institutional authority with modernisation.",
+    "area": "HSC Continuity & Change",
+    "level": 3,
+    "hint": "Identify the Society & Culture concept or research principle being tested.",
+    "source": "NESA HSC 2017 Q7",
+    "sourceType": "Adapted from official HSC multiple-choice item"
+  },
+  {
+    "q": "Which action involving income distribution is best explained by conflict theory?",
+    "o": [
+      "Airlines compete in a price war",
+      "Farmers form a cooperative to resist supermarket price control",
+      "Ride-share drivers compete with taxis",
+      "Property tax concessions are reduced after a review"
+    ],
+    "a": 1,
+    "e": "Farmers collectively challenge the market power of supermarkets, illustrating competition over resources and power.",
+    "area": "HSC Continuity & Change",
+    "level": 4,
+    "hint": "Identify the Society & Culture concept or research principle being tested.",
+    "source": "NESA HSC 2017 Q8",
+    "sourceType": "Adapted from official HSC multiple-choice item"
+  },
+  {
+    "q": "Which example best represents rejection of globalisation?",
+    "o": [
+      "A radio station plays only Australian music",
+      "A person shops at a farmers' market",
+      "A person joins a climate protest",
+      "A global fast-food chain changes its menu locally"
+    ],
+    "a": 0,
+    "e": "Exclusively promoting local music rejects global cultural influence most directly.",
+    "area": "HSC Continuity & Change",
+    "level": 2,
+    "hint": "Identify the Society & Culture concept or research principle being tested.",
+    "source": "NESA HSC 2016 Q1",
+    "sourceType": "Adapted from official HSC multiple-choice item"
+  },
+  {
+    "q": "A couple holds a wedding ceremony on a beach rather than following a conventional setting. Which concepts interact?",
+    "o": [
+      "Power and authority",
+      "Continuity and change",
+      "Technology and gender",
+      "Globalisation and modernisation"
+    ],
+    "a": 1,
+    "e": "The example retains the institution/tradition of marriage while changing aspects of how it is practised.",
+    "area": "HSC Continuity & Change",
+    "level": 2,
+    "hint": "Identify the Society & Culture concept or research principle being tested.",
+    "source": "NESA HSC 2016 Q2",
+    "sourceType": "Adapted from official HSC multiple-choice item"
+  },
+  {
+    "q": "Which action demonstrates ethical research?",
+    "o": [
+      "Arrange data to confirm the hypothesis",
+      "Remove participants' confidentiality",
+      "Publish unreferenced findings",
+      "Acknowledge intellectual property"
+    ],
+    "a": 3,
+    "e": "Acknowledging intellectual property is an ethical research responsibility.",
+    "area": "HSC Continuity & Change",
+    "level": 2,
+    "hint": "Identify the Society & Culture concept or research principle being tested.",
+    "source": "NESA HSC 2016 Q3",
+    "sourceType": "Adapted from official HSC multiple-choice item"
+  },
+  {
+    "q": "What best illustrates the qualitative nature of secondary research?",
+    "o": [
+      "Extrapolating numerical trends",
+      "Immersing oneself in live action",
+      "Making interpretive judgements about the usefulness of accessed material",
+      "Statistically analysing information to generalise"
+    ],
+    "a": 2,
+    "e": "Qualitative secondary research involves interpretation and judgement of existing material.",
+    "area": "HSC Continuity & Change",
+    "level": 3,
+    "hint": "Identify the Society & Culture concept or research principle being tested.",
+    "source": "NESA HSC 2016 Q4",
+    "sourceType": "Adapted from official HSC multiple-choice item"
+  },
+  {
+    "q": "Westernisation can contribute to empowerment when:",
+    "o": [
+      "Churches extend control over values",
+      "Individuals assert personal identity",
+      "Environmental groups promote sustainability",
+      "Societies rely more heavily on technology"
+    ],
+    "a": 1,
+    "e": "The official answer links westernisation with individuals asserting personal identity.",
+    "area": "HSC Continuity & Change",
+    "level": 4,
+    "hint": "Identify the Society & Culture concept or research principle being tested.",
+    "source": "NESA HSC 2016 Q5",
+    "sourceType": "Adapted from official HSC multiple-choice item"
+  },
+  {
+    "q": "Which example best represents resistance to change at the macro level?",
+    "o": [
+      "A multinational reviews parental-leave policy",
+      "An NGO researches renewable energy",
+      "A school refuses trousers for female students",
+      "A Hollywood studio withholds films from digital streaming"
+    ],
+    "a": 3,
+    "e": "The large-scale media industry's resistance to a major distribution shift is the macro-level example identified by the key.",
+    "area": "HSC Continuity & Change",
+    "level": 4,
+    "hint": "Identify the Society & Culture concept or research principle being tested.",
+    "source": "NESA HSC 2016 Q6",
+    "sourceType": "Adapted from official HSC multiple-choice item"
+  },
+  {
+    "q": "Which example shows technology being used to sustain a society's beliefs and values?",
+    "o": [
+      "Students make a war film",
+      "A library digitally archives historic radio broadcasts",
+      "A government expands broadband",
+      "A lobby group campaigns for legal change"
+    ],
+    "a": 1,
+    "e": "Digitally preserving historical broadcasts helps maintain cultural beliefs, values and heritage over time.",
+    "area": "HSC Continuity & Change",
+    "level": 3,
+    "hint": "Identify the Society & Culture concept or research principle being tested.",
+    "source": "NESA HSC 2016 Q7",
+    "sourceType": "Adapted from official HSC multiple-choice item"
+  },
+  {
+    "q": "Which change in women's workforce participation is best explained by functionalism?",
+    "o": [
+      "Women demonstrate for equal pay",
+      "Mothers negotiate childcare individually",
+      "Union action raises minimum wages",
+      "A tax rebate helps families meet childcare costs"
+    ],
+    "a": 3,
+    "e": "Functionalism focuses on institutional adjustments that help society adapt and maintain functioning.",
+    "area": "HSC Continuity & Change",
+    "level": 4,
+    "hint": "Identify the Society & Culture concept or research principle being tested.",
+    "source": "NESA HSC 2016 Q8",
+    "sourceType": "Adapted from official HSC multiple-choice item"
+  },
+  {
+    "q": "Which example shows an authority promoting sustainability?",
+    "o": [
+      "A government taxes solar panels",
+      "Children start school recycling",
+      "A local council requires cycle paths in new housing areas",
+      "An NGO lobbies lawmakers about drinking water"
+    ],
+    "a": 2,
+    "e": "A local council is an authority using formal planning requirements to promote sustainable transport.",
+    "area": "HSC Continuity & Change",
+    "level": 2,
+    "hint": "Identify the Society & Culture concept or research principle being tested.",
+    "source": "NESA HSC 2015 Q1",
+    "sourceType": "Adapted from official HSC multiple-choice item"
+  },
+  {
+    "q": "Researchers examine documents, interpret films and compile statistics about migrants, then produce a qualitative report. Which method best fits?",
+    "o": [
+      "Case study",
+      "Focus group",
+      "Questionnaire",
+      "Content analysis"
+    ],
+    "a": 3,
+    "e": "Content analysis can systematically examine documents and films and combine patterns into a qualitative interpretation.",
+    "area": "HSC Continuity & Change",
+    "level": 3,
+    "hint": "Identify the Society & Culture concept or research principle being tested.",
+    "source": "NESA HSC 2015 Q2",
+    "sourceType": "Adapted from official HSC multiple-choice item"
+  },
+  {
+    "q": "Which example demonstrates cooperation between meso and macro levels?",
+    "o": [
+      "A school raises money for a local charity",
+      "An MP helps one voter",
+      "A village leader supports the re-election of a government",
+      "Friends choose the same university"
+    ],
+    "a": 2,
+    "e": "A village leader represents a meso-level community interacting with macro-level government/politics.",
+    "area": "HSC Continuity & Change",
+    "level": 3,
+    "hint": "Identify the Society & Culture concept or research principle being tested.",
+    "source": "NESA HSC 2015 Q3",
+    "sourceType": "Adapted from official HSC multiple-choice item"
+  },
+  {
+    "q": "What do statistical analysis and closed-ended questionnaires have in common?",
+    "o": [
+      "They emphasise direct quotations",
+      "They allow comparisons using structured data",
+      "They use quantitative information mainly for subjective experience",
+      "They always require interactive random sampling"
+    ],
+    "a": 1,
+    "e": "Both commonly generate structured quantitative data that can be compared.",
+    "area": "HSC Continuity & Change",
+    "level": 2,
+    "hint": "Identify the Society & Culture concept or research principle being tested.",
+    "source": "NESA HSC 2015 Q4",
+    "sourceType": "Adapted from official HSC multiple-choice item"
+  },
+  {
+    "q": "Which example shows technology assisting communication between macro and micro levels?",
+    "o": [
+      "A newspaper publishes workplace emails",
+      "A government uses social media to inform individuals about mental-health issues",
+      "A principal gives teachers devices",
+      "A company video-conferences with a school"
+    ],
+    "a": 1,
+    "e": "Government is macro level and individuals are micro level; social media links the two.",
+    "area": "HSC Continuity & Change",
+    "level": 3,
+    "hint": "Identify the Society & Culture concept or research principle being tested.",
+    "source": "NESA HSC 2015 Q5",
+    "sourceType": "Adapted from official HSC multiple-choice item"
+  },
+  {
+    "q": "Which ethical issue can arise when observation is used as a research method?",
+    "o": [
+      "Conversations cannot be recorded",
+      "People are observed outside natural settings",
+      "Researchers do not explain why they are present",
+      "People alter behaviour when observed"
+    ],
+    "a": 2,
+    "e": "Failure to disclose the researcher's role raises informed-consent and covert-research concerns.",
+    "area": "HSC Continuity & Change",
+    "level": 3,
+    "hint": "Identify the Society & Culture concept or research principle being tested.",
+    "source": "NESA HSC 2015 Q6",
+    "sourceType": "Adapted from official HSC multiple-choice item"
+  },
+  {
+    "q": "Which example best represents transformative social change?",
+    "o": [
+      "Loss of Indigenous language through modernisation",
+      "Political conflict about same-sex marriage",
+      "Rapid change in a company's quota for employing women",
+      "A neighbourhood adopts Halloween"
+    ],
+    "a": 0,
+    "e": "The official key identifies loss of Indigenous language through modernisation as the transformative example.",
+    "area": "HSC Continuity & Change",
+    "level": 4,
+    "hint": "Identify the Society & Culture concept or research principle being tested.",
+    "source": "NESA HSC 2015 Q7",
+    "sourceType": "Adapted from official HSC multiple-choice item"
+  },
+  {
+    "q": "Data show population growth, more overseas-born residents, fewer farm workers and more female managers. Which combination best describes these changes?",
+    "o": [
+      "Structural change and improved status of women",
+      "Resistance to globalisation and technological advance",
+      "Evolutionary change and sustainability",
+      "Continuity in work practices and identity change"
+    ],
+    "a": 0,
+    "e": "The employment shift is structural and the increased proportion of female managers indicates improved status of women.",
+    "area": "HSC Continuity & Change",
+    "level": 4,
+    "hint": "Identify the Society & Culture concept or research principle being tested.",
+    "source": "NESA HSC 2015 Q8",
+    "sourceType": "Adapted from official HSC multiple-choice item"
   }
 ]
