@@ -137,7 +137,11 @@ function openClue(ci,vi,btn,v){
  currentButton=btn;
  currentValue=v;
  document.getElementById('mcat').textContent=categories[ci].name+' — $'+v;
- document.getElementById('mquestion').textContent=current.q;
+ document.getElementById('mquestion').innerHTML =
+   '<div>'+current.q+'</div>' +
+   '<div style="margin-top:18px;text-align:left;display:inline-block">' +
+   current.o.map((opt,i)=>'<div style="margin:7px 0"><b>'+String.fromCharCode(65+i)+'.</b> '+opt+'</div>').join('') +
+   '</div>';
  document.getElementById('manswer').style.display='none';
  document.getElementById('manswer').innerHTML='';
  document.getElementById('reveal').style.display='inline-block';
