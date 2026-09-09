@@ -5,4 +5,25 @@
 <details><summary>4. Theories of social change</summary><p>Revise <b>evolutionary, functionalist, conflict and interactionist</b>. Apply a theory to a South Korean change and judge how well it explains it.</p></details>
 <details><summary>5. South Korea evidence bank</summary><div class="grid two"><div class="panel"><h3>Candlelight Revolution</h3><p>Political participation, power, authority, collective action and change.</p></div><div class="panel"><h3>Technology</h3><p>Pace/direction of change and effects across micro, meso and macro.</p></div><div class="panel"><h3>Family and social values</h3><p>Continuity in expectations alongside changing lifestyles and values.</p></div><div class="panel"><h3>Beauty culture</h3><p>Westernisation, identity, gender, conformity and globalisation.</p></div></div></details>
 <details><summary>6. Near future</summary><p>Identify a current trend, explain its impact, predict likely change or continuity, then justify the prediction.</p></details>
-<div class="panel"><div class="eyebrow">HSC PRACTICE</div><p><b>Explain how ONE theory of change can be used to interpret a change in South Korea.</b></p><p><b>“Modernisation is not Westernisation.”</b> Use a South Korean example to justify your position.</p></div></main><footer><div class="wrap">HSC Society & Culture Revision Hub · Year 12</div></footer></body></html>
+<div class="panel"><div class="eyebrow">HSC PRACTICE</div><p><b>Explain how ONE theory of change can be used to interpret a change in South Korea.</b></p><p><b>“Modernisation is not Westernisation.”</b> Use a South Korean example to justify your position.</p></div>
+<section class="panel" id="hsc-practice">
+<h2>HSC Question Bank</h2>
+<p>Practise past HSC-style questions mapped to this unit. <b>Your evidence:</b> South Korea. Open a question to see the syllabus focus, a planning prompt and what stronger responses need to do.</p>
+<div id="topicPractice"></div>
+<p><a class="btn" href="past-questions.html#continuity-change">View the full Past HSC Question Bank</a></p>
+</section>
+<script>
+fetch('data/topic-practice.json').then(r=>r.json()).then(data=>{
+ const box=document.getElementById('topicPractice');
+ data['continuity-change'].forEach(x=>{
+  const d=document.createElement('details');
+  d.innerHTML=`<summary><b>${x.year} HSC · ${x.marks} marks</b> — ${x.topic}</summary>
+  <p class="question"><b>${x.q}</b></p>
+  <p><b>Apply it to this course:</b> ${x.apply}</p>
+  <p><b>What stronger responses do:</b> ${x.nesa}</p>`;
+  box.appendChild(d);
+ });
+});
+</script>
+
+</main><footer><div class="wrap">HSC Society & Culture Revision Hub · Year 12</div></footer></body></html>

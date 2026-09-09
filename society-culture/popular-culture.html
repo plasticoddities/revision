@@ -6,4 +6,25 @@
 <details><summary>5. Consumption and interpretation</summary><p>Audiences are active meaning-makers. Interpretations vary with values, culture, experience and context.</p><div class="evidence"><b>Main evidence:</b> <i>10 Things I Hate About You</i> (1999) as main source; <i>Do Revenge</i> (2022) as comparison for identity, power, relationships, conflict and gender.</div></details>
 <details><summary>6. Power, control and impact</summary><p>Media organisations, corporations and audiences shape popular culture. Control can occur through ownership, production, distribution, algorithms and curation.</p><div class="evidence"><b>Class examples:</b> TikTok's For You Page and Disney.</div></details>
 <details><summary>7. Future directions</summary><p>Use <b>trend → impact → future → judgement</b>. Consider streaming, algorithms, social media, changing values and commercialisation, while also identifying continuity.</p></details>
-<div class="panel"><div class="eyebrow">HSC PRACTICE</div><p><b>Analyse how ONE popular culture develops over time.</b> Explain what changed, what remained and what the evidence suggests about the future.</p></div></main><footer><div class="wrap">HSC Society & Culture Revision Hub · Year 12</div></footer></body></html>
+<div class="panel"><div class="eyebrow">HSC PRACTICE</div><p><b>Analyse how ONE popular culture develops over time.</b> Explain what changed, what remained and what the evidence suggests about the future.</p></div>
+<section class="panel" id="hsc-practice">
+<h2>HSC Question Bank</h2>
+<p>Practise past HSC-style questions mapped to this unit. <b>Your evidence:</b> Teen Film. Open a question to see the syllabus focus, a planning prompt and what stronger responses need to do.</p>
+<div id="topicPractice"></div>
+<p><a class="btn" href="past-questions.html#popular-culture">View the full Past HSC Question Bank</a></p>
+</section>
+<script>
+fetch('data/topic-practice.json').then(r=>r.json()).then(data=>{
+ const box=document.getElementById('topicPractice');
+ data['popular-culture'].forEach(x=>{
+  const d=document.createElement('details');
+  d.innerHTML=`<summary><b>${x.year} HSC · ${x.marks} marks</b> — ${x.topic}</summary>
+  <p class="question"><b>${x.q}</b></p>
+  <p><b>Apply it to this course:</b> ${x.apply}</p>
+  <p><b>What stronger responses do:</b> ${x.nesa}</p>`;
+  box.appendChild(d);
+ });
+});
+</script>
+
+</main><footer><div class="wrap">HSC Society & Culture Revision Hub · Year 12</div></footer></body></html>
