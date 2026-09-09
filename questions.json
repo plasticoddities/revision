@@ -1,38 +1,170 @@
 [
   {
-    "question": "Which concept refers to accepted ways of behaving within a social group?",
-    "options": [
-      "Power",
-      "Norms",
-      "Technology",
-      "Authority"
-    ],
-    "answer": 1,
-    "explanation": "Norms are shared expectations or rules that guide behaviour within a group or society.",
-    "topic": "Core Concepts"
-  },
-  {
-    "question": "Which research method is most useful when a researcher wants detailed responses in a participant's own words?",
-    "options": [
-      "Closed questionnaire",
+    "q": "Which research method systematically examines patterns in media texts or other cultural material?",
+    "o": [
       "Interview",
       "Content analysis",
-      "Statistical analysis"
+      "Participant observation",
+      "Focus group"
     ],
-    "answer": 1,
-    "explanation": "Interviews allow participants to explain experiences and viewpoints in greater depth.",
-    "topic": "Research Methods"
+    "a": 1,
+    "e": "Content analysis systematically examines texts, media or other material to identify patterns, themes and trends.",
+    "area": "Research Methods",
+    "level": 1,
+    "hint": "Think about analysing existing media rather than asking participants."
   },
   {
-    "question": "Which concept best describes the ability to influence the actions or decisions of others?",
-    "options": [
-      "Power",
-      "Identity",
-      "Continuity",
-      "Environment"
+    "q": "Which term describes change that fundamentally alters major structures or patterns within society?",
+    "o": [
+      "Evolutionary change",
+      "Transformative change",
+      "Cultural continuity",
+      "Resistance to change"
     ],
-    "answer": 0,
-    "explanation": "Power is the capacity to influence people, decisions or resources.",
-    "topic": "Core Concepts"
+    "a": 1,
+    "e": "Transformative change involves substantial or fundamental alteration, while evolutionary change is generally gradual.",
+    "area": "Continuity & Change",
+    "level": 2,
+    "hint": "The key word is fundamental."
+  },
+  {
+    "q": "Which theory of social change emphasises tensions and inequalities between groups as drivers of change?",
+    "o": [
+      "Functionalist",
+      "Interactionist",
+      "Conflict",
+      "Evolutionary"
+    ],
+    "a": 2,
+    "e": "Conflict theory focuses on competing interests, inequalities and struggles over power and resources.",
+    "area": "Continuity & Change",
+    "level": 3,
+    "hint": "Think power, inequality and competing interests."
+  },
+  {
+    "q": "Which level of society is most closely associated with institutions and organisations?",
+    "o": [
+      "Micro",
+      "Meso",
+      "Macro",
+      "Personal"
+    ],
+    "a": 1,
+    "e": "The meso level concerns groups, organisations and institutions between individual and whole-society levels.",
+    "area": "Course Concepts",
+    "level": 2,
+    "hint": "It sits between individuals and society-wide structures."
+  },
+  {
+    "q": "In Popular Culture, which concept refers to turning cultural products, symbols or experiences into things that can be bought and sold?",
+    "o": [
+      "Secularisation",
+      "Commodification",
+      "Institutional power",
+      "Cultural continuity"
+    ],
+    "a": 1,
+    "e": "Commodification is the process through which cultural products, symbols or experiences acquire commercial value.",
+    "area": "Popular Culture",
+    "level": 4,
+    "hint": "Think commerce."
+  },
+  {
+    "q": "Which term best describes the stories, narratives and meanings that help perpetuate a popular culture?",
+    "o": [
+      "Mythology",
+      "Secularisation",
+      "Authority",
+      "Observation"
+    ],
+    "a": 0,
+    "e": "Mythology refers to stories and narratives associated with a popular culture that contribute to its meanings and perpetuation.",
+    "area": "Popular Culture",
+    "level": 4,
+    "hint": "Think stories and legends."
+  },
+  {
+    "q": "Which concept describes an overall way of understanding or perceiving the world?",
+    "o": [
+      "Ritual",
+      "Worldview",
+      "Custom",
+      "Institutional power"
+    ],
+    "a": 1,
+    "e": "A worldview is a framework through which individuals or groups understand and interpret the world.",
+    "area": "Beliefs & Ideologies",
+    "level": 3,
+    "hint": "It is a broad lens for interpreting the world."
+  },
+  {
+    "q": "What is secularisation?",
+    "o": [
+      "The growth of ritual practice",
+      "The increasing political control of religious organisations",
+      "A decline in the social significance or influence of religion",
+      "The global spread of all belief systems"
+    ],
+    "a": 2,
+    "e": "Secularisation refers broadly to a decline in the social significance or influence of religion in society.",
+    "area": "Beliefs & Ideologies",
+    "level": 5,
+    "hint": "Think about religion becoming less socially influential."
+  },
+  {
+    "q": "Which research characteristic asks whether a method measures what it is intended to measure?",
+    "o": [
+      "Reliability",
+      "Validity",
+      "Objectivity",
+      "Quantification"
+    ],
+    "a": 1,
+    "e": "Validity concerns whether research accurately measures or investigates what it claims to measure or investigate.",
+    "area": "Research Methods",
+    "level": 4,
+    "hint": "Accuracy of what is actually being measured."
+  },
+  {
+    "q": "When an HSC question asks students to 'assess', what should the response ultimately do?",
+    "o": [
+      "List features only",
+      "Retell the case study",
+      "Make a supported judgement",
+      "Give a personal opinion"
+    ],
+    "a": 2,
+    "e": "An assessment requires a supported judgement about value, significance, extent or impact, using relevant evidence and course concepts.",
+    "area": "Exam Skills",
+    "level": 5,
+    "hint": "NESA feedback repeatedly stresses judgement rather than description."
+  },
+  {
+    "q": "Which pair is most useful when explaining the direction and pace of social change?",
+    "o": [
+      "Continuity and change",
+      "Values and ritual",
+      "Reliability and mythology",
+      "Gender and questionnaire"
+    ],
+    "a": 0,
+    "e": "Continuity and change must be considered together when analysing how societies develop over time.",
+    "area": "Continuity & Change",
+    "level": 5,
+    "hint": "The core itself gives you the pair."
+  },
+  {
+    "q": "A strong Society & Culture extended response should primarily be driven by what?",
+    "o": [
+      "A memorised case-study narrative",
+      "A clear argument that answers the specific question",
+      "As many definitions as possible",
+      "Personal experience"
+    ],
+    "a": 1,
+    "e": "NESA marking feedback consistently rewards responses that address the question, sustain a logical argument, integrate concepts and support judgements with evidence.",
+    "area": "Exam Skills",
+    "level": 6,
+    "hint": "The question\u2014not the pre-prepared essay\u2014should control the response."
   }
 ]
