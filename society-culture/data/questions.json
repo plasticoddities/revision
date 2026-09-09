@@ -1,48 +1,6 @@
 [
   {
-    "q": "Which research method systematically examines patterns in media texts or other cultural material?",
-    "o": [
-      "Interview",
-      "Content analysis",
-      "Participant observation",
-      "Focus group"
-    ],
-    "a": 1,
-    "e": "Content analysis systematically examines texts, media or other material to identify patterns, themes and trends.",
-    "area": "Research Methods",
-    "level": 1,
-    "hint": "Think about analysing existing media rather than asking participants."
-  },
-  {
-    "q": "Which term describes change that fundamentally alters major structures or patterns within society?",
-    "o": [
-      "Evolutionary change",
-      "Transformative change",
-      "Cultural continuity",
-      "Resistance to change"
-    ],
-    "a": 1,
-    "e": "Transformative change involves substantial or fundamental alteration, while evolutionary change is generally gradual.",
-    "area": "Continuity & Change",
-    "level": 2,
-    "hint": "The key word is fundamental."
-  },
-  {
-    "q": "Which theory of social change emphasises tensions and inequalities between groups as drivers of change?",
-    "o": [
-      "Functionalist",
-      "Interactionist",
-      "Conflict",
-      "Evolutionary"
-    ],
-    "a": 2,
-    "e": "Conflict theory focuses on competing interests, inequalities and struggles over power and resources.",
-    "area": "Continuity & Change",
-    "level": 3,
-    "hint": "Think power, inequality and competing interests."
-  },
-  {
-    "q": "Which level of society is most closely associated with institutions and organisations?",
+    "q": "Which level is associated with organisations and institutions?",
     "o": [
       "Micro",
       "Meso",
@@ -50,121 +8,275 @@
       "Personal"
     ],
     "a": 1,
-    "e": "The meso level concerns groups, organisations and institutions between individual and whole-society levels.",
-    "area": "Course Concepts",
-    "level": 2,
-    "hint": "It sits between individuals and society-wide structures."
+    "e": "Meso concerns groups, organisations and institutions.",
+    "area": "Toolkit",
+    "level": 1,
+    "hint": "Between individual and society-wide."
   },
   {
-    "q": "In Popular Culture, which concept refers to turning cultural products, symbols or experiences into things that can be bought and sold?",
+    "q": "Which form of change involves substantial or fundamental alteration?",
     "o": [
-      "Secularisation",
-      "Commodification",
-      "Institutional power",
-      "Cultural continuity"
+      "Evolutionary",
+      "Transformative",
+      "Continuity",
+      "Resistance"
     ],
     "a": 1,
-    "e": "Commodification is the process through which cultural products, symbols or experiences acquire commercial value.",
-    "area": "Popular Culture",
-    "level": 4,
-    "hint": "Think commerce."
+    "e": "Transformative change involves substantial alteration.",
+    "area": "Continuity & Change",
+    "level": 1,
+    "hint": "Think fundamental."
   },
   {
-    "q": "Which term best describes the stories, narratives and meanings that help perpetuate a popular culture?",
+    "q": "Which theory emphasises inequality and competing interests?",
     "o": [
-      "Mythology",
+      "Functionalist",
+      "Interactionist",
+      "Conflict",
+      "Evolutionary"
+    ],
+    "a": 2,
+    "e": "Conflict theory focuses on inequality, power and competing interests.",
+    "area": "Continuity & Change",
+    "level": 2,
+    "hint": "Think power."
+  },
+  {
+    "q": "Which concept refers to Western values, ideas and lifestyles influencing another society?",
+    "o": [
+      "Modernisation",
+      "Westernisation",
       "Secularisation",
-      "Authority",
-      "Observation"
+      "Commodification"
+    ],
+    "a": 1,
+    "e": "Westernisation concerns Western values, ideas and lifestyles.",
+    "area": "Continuity & Change",
+    "level": 2,
+    "hint": "The name gives a clue."
+  },
+  {
+    "q": "South Korean beauty culture was used particularly to explore which process?",
+    "o": [
+      "Secularisation",
+      "Westernisation",
+      "Participant observation",
+      "Commodification"
+    ],
+    "a": 1,
+    "e": "Beauty culture was used to explore Westernisation alongside continuity.",
+    "area": "Continuity & Change",
+    "level": 3,
+    "hint": "Changing beauty ideals."
+  },
+  {
+    "q": "Which is a distinguishing characteristic of popular culture?",
+    "o": [
+      "It never changes",
+      "Limited consumer access",
+      "Develops local to global",
+      "Cannot be commercialised"
+    ],
+    "a": 2,
+    "e": "Popular culture develops from local to global and evolves over time.",
+    "area": "Popular Culture",
+    "level": 1,
+    "hint": "Think global spread."
+  },
+  {
+    "q": "What is commodification?",
+    "o": [
+      "Decline of religion",
+      "Turning cultural ideas/identities into products",
+      "Government control",
+      "Gradual social development"
+    ],
+    "a": 1,
+    "e": "Commodification turns cultural ideas, symbols or identities into marketable products.",
+    "area": "Popular Culture",
+    "level": 2,
+    "hint": "Commodity."
+  },
+  {
+    "q": "Which was the main teen-film source?",
+    "o": [
+      "Do Revenge",
+      "10 Things I Hate About You",
+      "The Breakfast Club",
+      "Squid Game"
+    ],
+    "a": 1,
+    "e": "10 Things I Hate About You (1999) was the main source; Do Revenge was comparison.",
+    "area": "Popular Culture",
+    "level": 2,
+    "hint": "1999."
+  },
+  {
+    "q": "Why compare 10 Things I Hate About You and Do Revenge?",
+    "o": [
+      "Prove fixed meaning",
+      "Identify continuity/change in teen culture",
+      "Study religion",
+      "Measure reliability"
+    ],
+    "a": 1,
+    "e": "The comparison identified continuity/change and changing teen culture.",
+    "area": "Popular Culture",
+    "level": 3,
+    "hint": "1999 vs 2022."
+  },
+  {
+    "q": "Which example explained algorithmic control?",
+    "o": [
+      "Ummah",
+      "TikTok For You Page",
+      "Candlelight Revolution",
+      "Hajj"
+    ],
+    "a": 1,
+    "e": "TikTok's For You Page was used for algorithmic control and curation.",
+    "area": "Popular Culture",
+    "level": 3,
+    "hint": "Social feed."
+  },
+  {
+    "q": "What does Ummah refer to?",
+    "o": [
+      "Political ideology",
+      "Worldwide Muslim community",
+      "Secularisation",
+      "Research method"
+    ],
+    "a": 1,
+    "e": "The Ummah is the worldwide Muslim community.",
+    "area": "Beliefs & Ideologies",
+    "level": 1,
+    "hint": "Community."
+  },
+  {
+    "q": "Which set contains practices used in the Islam case study?",
+    "o": [
+      "Salah, Ramadan, Hajj, Zakat",
+      "Interview, questionnaire, Hajj, focus group",
+      "Power, authority, gender, time",
+      "Modernisation, Hajj, commodification, secularisation"
     ],
     "a": 0,
-    "e": "Mythology refers to stories and narratives associated with a popular culture that contribute to its meanings and perpetuation.",
-    "area": "Popular Culture",
-    "level": 4,
-    "hint": "Think stories and legends."
+    "e": "Salah, Ramadan, Hajj and Zakat were used to examine expression and identity.",
+    "area": "Beliefs & Ideologies",
+    "level": 1,
+    "hint": "All four are practices."
   },
   {
-    "q": "Which concept describes an overall way of understanding or perceiving the world?",
+    "q": "Which was identified as an important source of authority in Islam?",
     "o": [
-      "Ritual",
-      "Worldview",
-      "Custom",
-      "Institutional power"
+      "Qur'an",
+      "TikTok",
+      "Candlelight Revolution",
+      "Netflix"
+    ],
+    "a": 0,
+    "e": "The Qur'an was identified as an important source of authority.",
+    "area": "Beliefs & Ideologies",
+    "level": 2,
+    "hint": "Sacred text."
+  },
+  {
+    "q": "Which factors were studied as influences on change in belief systems?",
+    "o": [
+      "Technology only",
+      "Technology, globalisation, migration, changing values, new generations",
+      "Only leaders",
+      "Only secularisation"
     ],
     "a": 1,
-    "e": "A worldview is a framework through which individuals or groups understand and interpret the world.",
+    "e": "All five were identified as influences on change.",
     "area": "Beliefs & Ideologies",
     "level": 3,
-    "hint": "It is a broad lens for interpreting the world."
+    "hint": "Broad answer."
   },
   {
-    "q": "What is secularisation?",
+    "q": "Which judgement best captures continuity and change in belief systems?",
     "o": [
-      "The growth of ritual practice",
-      "The increasing political control of religious organisations",
-      "A decline in the social significance or influence of religion",
-      "The global spread of all belief systems"
-    ],
-    "a": 2,
-    "e": "Secularisation refers broadly to a decline in the social significance or influence of religion in society.",
-    "area": "Beliefs & Ideologies",
-    "level": 5,
-    "hint": "Think about religion becoming less socially influential."
-  },
-  {
-    "q": "Which research characteristic asks whether a method measures what it is intended to measure?",
-    "o": [
-      "Reliability",
-      "Validity",
-      "Objectivity",
-      "Quantification"
+      "All beliefs disappear",
+      "Core beliefs can remain while practices adapt",
+      "Technology removes tradition",
+      "Continuity means no change"
     ],
     "a": 1,
-    "e": "Validity concerns whether research accurately measures or investigates what it claims to measure or investigate.",
-    "area": "Research Methods",
+    "e": "A key class judgement was that core beliefs often remain while practices adapt.",
+    "area": "Beliefs & Ideologies",
     "level": 4,
-    "hint": "Accuracy of what is actually being measured."
+    "hint": "They can coexist."
   },
   {
-    "q": "When an HSC question asks students to 'assess', what should the response ultimately do?",
+    "q": "Which method systematically examines patterns in media texts?",
     "o": [
-      "List features only",
-      "Retell the case study",
-      "Make a supported judgement",
-      "Give a personal opinion"
+      "Interview",
+      "Content analysis",
+      "Participant observation",
+      "Focus group"
+    ],
+    "a": 1,
+    "e": "Content analysis systematically examines texts/media.",
+    "area": "Research Methods",
+    "level": 2,
+    "hint": "Existing content."
+  },
+  {
+    "q": "Which ethical principle requires participants to understand and agree?",
+    "o": [
+      "Commodification",
+      "Informed consent",
+      "Westernisation",
+      "Diffusion"
+    ],
+    "a": 1,
+    "e": "Informed consent is a core research ethical principle.",
+    "area": "Research Methods",
+    "level": 2,
+    "hint": "Agreement."
+  },
+  {
+    "q": "When asked to evaluate, what must you do?",
+    "o": [
+      "List",
+      "Retell",
+      "Make a supported judgement about value/significance/effectiveness",
+      "Give unsupported opinion"
     ],
     "a": 2,
-    "e": "An assessment requires a supported judgement about value, significance, extent or impact, using relevant evidence and course concepts.",
+    "e": "Evaluate requires a supported judgement.",
     "area": "Exam Skills",
-    "level": 5,
-    "hint": "NESA feedback repeatedly stresses judgement rather than description."
+    "level": 4,
+    "hint": "Judgement plus evidence."
   },
   {
-    "q": "Which pair is most useful when explaining the direction and pace of social change?",
+    "q": "A strong future-directions response should begin with what?",
     "o": [
-      "Continuity and change",
-      "Values and ritual",
-      "Reliability and mythology",
-      "Gender and questionnaire"
+      "Random prediction",
+      "Current trend or pattern",
+      "Memorised conclusion",
+      "Every definition"
+    ],
+    "a": 1,
+    "e": "Future study was taught as analysis of current trends rather than guessing.",
+    "area": "Exam Skills",
+    "level": 4,
+    "hint": "Evidence first."
+  },
+  {
+    "q": "Which sequence was taught for future Popular Culture analysis?",
+    "o": [
+      "Trend \u2192 impact \u2192 future \u2192 judgement",
+      "Definition \u2192 quote \u2192 opinion",
+      "Micro \u2192 questionnaire \u2192 ritual",
+      "Film \u2192 plot \u2192 review"
     ],
     "a": 0,
-    "e": "Continuity and change must be considered together when analysing how societies develop over time.",
-    "area": "Continuity & Change",
+    "e": "The taught formula was trend, impact, future, judgement.",
+    "area": "Popular Culture",
     "level": 5,
-    "hint": "The core itself gives you the pair."
-  },
-  {
-    "q": "A strong Society & Culture extended response should primarily be driven by what?",
-    "o": [
-      "A memorised case-study narrative",
-      "A clear argument that answers the specific question",
-      "As many definitions as possible",
-      "Personal experience"
-    ],
-    "a": 1,
-    "e": "NESA marking feedback consistently rewards responses that address the question, sustain a logical argument, integrate concepts and support judgements with evidence.",
-    "area": "Exam Skills",
-    "level": 6,
-    "hint": "The question\u2014not the pre-prepared essay\u2014should control the response."
+    "hint": "Start with trend."
   }
 ]
