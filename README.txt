@@ -1,12 +1,22 @@
-HSC REVISION HUB — v3
+HSC SOCIETY & CULTURE REVISION HUB — V2
 
-STRUCTURE
-index.html                  Main HSC Revision Hub
-society-culture/index.html  Society & Culture homepage
-society-culture/...         All current SAC pages, assets and question data
+UPLOAD:
+Replace the files in your GitHub repository with the contents of this folder and commit.
 
-UPLOAD TO GITHUB
-Upload the CONTENTS of this folder to the root of the existing repository.
+V2:
+- Year 12-only structure
+- Continuity & Change
+- Popular Culture
+- Belief Systems & Ideologies
+- Course Toolkit
+- Expanded original MC question bank
+- Full Are You Smarter Than Mr Forsyth? game with 10 levels and 3 lifelines
+- NESA-linked Past Questions page
+- NESA-feedback-informed How to Answer page
 
-From this version onward, complete ZIP packages can be used for incremental updates.
-Future subjects can be added as their own folders without restructuring Society & Culture.
+IMPORTANT:
+The question bank contains original revision questions aligned to the syllabus. It does not reproduce NESA exam papers wholesale.
+The Past Questions page links students to the official NESA archive.
+
+NEXT:
+Add your actual focus studies (country, popular culture genre/example, belief system/ideology) and expand the question bank.
