@@ -1,0 +1,38 @@
+[
+  {
+    "question": "Which concept refers to accepted ways of behaving within a social group?",
+    "options": [
+      "Power",
+      "Norms",
+      "Technology",
+      "Authority"
+    ],
+    "answer": 1,
+    "explanation": "Norms are shared expectations or rules that guide behaviour within a group or society.",
+    "topic": "Core Concepts"
+  },
+  {
+    "question": "Which research method is most useful when a researcher wants detailed responses in a participant's own words?",
+    "options": [
+      "Closed questionnaire",
+      "Interview",
+      "Content analysis",
+      "Statistical analysis"
+    ],
+    "answer": 1,
+    "explanation": "Interviews allow participants to explain experiences and viewpoints in greater depth.",
+    "topic": "Research Methods"
+  },
+  {
+    "question": "Which concept best describes the ability to influence the actions or decisions of others?",
+    "options": [
+      "Power",
+      "Identity",
+      "Continuity",
+      "Environment"
+    ],
+    "answer": 0,
+    "explanation": "Power is the capacity to influence people, decisions or resources.",
+    "topic": "Core Concepts"
+  }
+]

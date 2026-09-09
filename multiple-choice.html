@@ -1,0 +1,9 @@
+<!doctype html><html><head><meta charset="utf-8"><link rel="stylesheet" href="assets/styles.css"><title>Multiple Choice</title></head><body><nav class="wrap"><a href="index.html">Home</a><a href="games.html">Games</a><a href="multiple-choice.html">Multiple Choice</a><a href="past-questions.html">Past Questions</a><a href="how-to.html">How to Answer</a></nav>
+<div class="pagehead"><div class="wrap"><h1>Multiple Choice</h1><p>Random questions with instant feedback.</p></div></div>
+<main class="wrap"><div class="panel"><p id="topic" class="eyebrow"></p><h2 id="q">Loading…</h2><div id="answers" class="answers"></div><div id="feedback"></div><p><button id="next" class="btn">Next Question</button></p></div></main>
+<script>
+let bank=[]; async function init(){bank=await fetch('data/questions.json').then(r=>r.json());nextQ()}
+function nextQ(){let x=bank[Math.floor(Math.random()*bank.length)];topic.textContent=x.topic;q.textContent=x.question;answers.innerHTML='';feedback.innerHTML='';
+x.options.forEach((o,i)=>{let b=document.createElement('button');b.className='btn';b.textContent=String.fromCharCode(65+i)+'. '+o;b.onclick=()=>feedback.innerHTML='<div class="feedback"><b>'+(i===x.answer?'Correct':'Not quite')+'</b><p>'+x.explanation+'</p></div>';answers.appendChild(b)})}
+next.onclick=nextQ;init();
+</script></body></html>

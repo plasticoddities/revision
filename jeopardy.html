@@ -1,0 +1,6 @@
+<!doctype html><html><head><meta charset="utf-8"><link rel="stylesheet" href="assets/styles.css"><title>SAC Jeopardy</title></head><body><nav class="wrap"><a href="index.html">Home</a><a href="games.html">Games</a><a href="multiple-choice.html">Multiple Choice</a><a href="past-questions.html">Past Questions</a><a href="how-to.html">How to Answer</a></nav>
+<div class="pagehead"><div class="wrap"><h1>SAC Jeopardy</h1><p>Starter board ready for real questions.</p></div></div>
+<main class="wrap"><div class="board" id="board"></div><div class="panel" id="clue"><h2>Select a value</h2></div></main>
+<script>
+const cats=['Concepts','Research','Change','Popular Culture','Beliefs'];cats.forEach(c=>{let d=document.createElement('div');d.className='cat';d.textContent=c;board.appendChild(d)});[100,200,300,400,500].forEach(v=>cats.forEach(c=>{let d=document.createElement('div');d.className='cell';d.textContent='$'+v;d.onclick=()=>{clue.innerHTML='<h2>'+c+' — $'+v+'</h2><p>Question placeholder.</p><button class="btn" onclick="this.insertAdjacentHTML(\'afterend\',\'<div class=feedback>Answer placeholder</div>\')">Reveal Answer</button>';d.style.opacity=.35;d.onclick=null};board.appendChild(d)}));
+</script></body></html>

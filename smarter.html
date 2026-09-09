@@ -1,0 +1,10 @@
+<!doctype html><html><head><meta charset="utf-8"><link rel="stylesheet" href="assets/styles.css"><title>Are You Smarter Than Mr Forsyth?</title></head><body><nav class="wrap"><a href="index.html">Home</a><a href="games.html">Games</a><a href="multiple-choice.html">Multiple Choice</a><a href="past-questions.html">Past Questions</a><a href="how-to.html">How to Answer</a></nav>
+<div class="pagehead"><div class="wrap"><h1>Are You Smarter Than Mr Forsyth?</h1><p>Five questions. Beat the teacher.</p></div></div>
+<main class="wrap"><div class="panel" id="game"></div></main>
+<script>
+let bank=[],n=0,score=0;async function init(){bank=await fetch('data/questions.json').then(r=>r.json());show()}
+function show(){if(n>=5){game.innerHTML='<h2>Final score: '+score+'/5</h2><button class="btn" onclick="location.reload()">Play Again</button>';return}
+let x=bank[Math.floor(Math.random()*bank.length)];game.innerHTML='<p class="eyebrow">Question '+(n+1)+' of 5</p><h2>'+x.question+'</h2><div id="opts" class="answers"></div><div id="fb"></div>';
+x.options.forEach((o,i)=>{let b=document.createElement('button');b.className='btn';b.textContent=String.fromCharCode(65+i)+'. '+o;b.onclick=()=>{if(i===x.answer)score++;fb.innerHTML='<div class="feedback"><b>'+(i===x.answer?'Correct':'Not quite')+'</b><p>'+x.explanation+'</p><button class="btn" id="go">Continue</button></div>';document.querySelectorAll('#opts button').forEach(z=>z.disabled=true);go.onclick=()=>{n++;show()}};opts.appendChild(b)})}
+init();
+</script></body></html>
