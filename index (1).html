@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>HSC Revision Hub</title>
+<style>
+*{box-sizing:border-box}
+:root{--navy:#172331;--red:#9b2635;--cream:#f3f0e8;--paper:#fff;--line:#d8d3c8;--muted:#66707a}
+body{margin:0;font-family:Arial,Helvetica,sans-serif;background:var(--cream);color:#20252a}
+.wrap{width:min(1120px,calc(100% - 32px));margin:auto}
+nav{background:var(--navy);color:white}
+nav .wrap{min-height:58px;display:flex;align-items:center}
+.brand{font-weight:800;letter-spacing:.04em}
+.hero{background:white;border-bottom:1px solid var(--line);padding:72px 0 55px}
+.eyebrow{font-size:.75rem;letter-spacing:.13em;font-weight:800;color:var(--red)}
+h1{font-size:clamp(3.2rem,8vw,6.5rem);line-height:.92;margin:10px 0 20px}
+.lead{font-size:1.15rem;line-height:1.55;color:var(--muted);max-width:700px}
+main{padding:42px 0 70px}
+.grid{display:grid;grid-template-columns:repeat(3,1fr);gap:16px;margin-top:18px}
+.card{display:block;background:white;border:1px solid var(--line);border-radius:12px;padding:25px;text-decoration:none;color:#20252a;min-height:190px}
+.card:hover{border-color:var(--red);transform:translateY(-2px)}
+.card b{font-size:.72rem;letter-spacing:.1em;color:var(--red)}
+.card p{line-height:1.5;color:var(--muted)}
+.placeholder{border-style:dashed;opacity:.72}
+footer{border-top:1px solid var(--line);padding:25px 0;color:var(--muted);font-size:.85rem}
+@media(max-width:800px){.grid{grid-template-columns:1fr}}
+</style>
+</head>
+<body>
+<nav><div class="wrap"><div class="brand">HSC REVISION HUB</div></div></nav>
+
+<header class="hero">
+<div class="wrap">
+<div class="eyebrow">SENIOR STUDY & EXAM REVISION</div>
+<h1>HSC Revision Hub</h1>
+<p class="lead">Choose a subject to access course revision, exam practice, past HSC material and interactive revision activities.</p>
+</div>
+</header>
+
+<main class="wrap">
+<div class="eyebrow">SUBJECTS</div>
+<h2>Choose your subject</h2>
+
+<div class="grid">
+<a class="card" href="society-culture/index.html">
+<b>SOCIETY & CULTURE</b>
+<h2>Society & Culture</h2>
+<p>Year 12 course revision, multiple choice, revision games, past HSC questions and exam skills.</p>
+</a>
+
+<div class="card placeholder">
+<b>FUTURE SUBJECT</b>
+<h2>Coming later</h2>
+<p>Additional HSC subjects can be added here without changing the overall site structure.</p>
+</div>
+
+<div class="card placeholder">
+<b>FUTURE SUBJECT</b>
+<h2>Coming later</h2>
+<p>Each subject can have its own revision pages, question banks and activities.</p>
+</div>
+</div>
+</main>
+
+<footer><div class="wrap">HSC Revision Hub</div></footer>
+</body>
+</html>
