@@ -34,3 +34,376 @@ th{font-weight:800}
   .topbar nav{justify-content:flex-start}
   .topbar .brand{white-space:normal}
 }
+
+
+/* =========================================================
+   V14.3 — MODERN SOCIETY & CULTURE THEME
+   CSS-only visual refresh. Existing HTML and functionality
+   remain unchanged.
+   ========================================================= */
+
+:root{
+  --bg:#f6f7f8;
+  --surface:#ffffff;
+  --surface-alt:#eef1f3;
+  --ink:#18212a;
+  --muted:#66727d;
+  --line:#d8dee3;
+  --accent:#b23a48;
+  --accent-dark:#8e2e3a;
+  --accent-soft:#f5e8ea;
+  --nav:#15202a;
+  --nav-2:#1f2d38;
+  --success:#2f6f59;
+  --warning:#956b23;
+  --shadow:0 10px 30px rgba(24,33,42,.08);
+}
+
+/* Page */
+html{
+  background:var(--bg);
+}
+
+body{
+  background:
+    radial-gradient(circle at 100% 0%, rgba(178,58,72,.055), transparent 28rem),
+    var(--bg);
+  color:var(--ink);
+  line-height:1.6;
+}
+
+/* Header / navigation */
+.topbar,
+header.topbar{
+  background:linear-gradient(135deg,var(--nav),var(--nav-2));
+  border-bottom:0;
+  box-shadow:0 8px 24px rgba(21,32,42,.12);
+}
+
+.topbar-inner{
+  padding-top:14px;
+  padding-bottom:14px;
+}
+
+.topbar .brand,
+.topbar .brand a,
+.topbar a{
+  color:#fff;
+}
+
+.topbar nav a{
+  color:#d9e0e5;
+  border-radius:6px;
+  padding:8px 10px;
+  transition:background .15s ease,color .15s ease;
+}
+
+.topbar nav a:hover,
+.topbar nav a:focus{
+  color:#fff;
+  background:rgba(255,255,255,.08);
+}
+
+.topbar nav a.active,
+.topbar nav a[aria-current="page"]{
+  background:var(--accent);
+  color:#fff;
+}
+
+/* Main layout */
+main,
+.container,
+.wrap,
+.page{
+  position:relative;
+}
+
+main{
+  padding-top:34px;
+  padding-bottom:56px;
+}
+
+/* Headings */
+h1,h2,h3,h4{
+  color:var(--ink);
+  letter-spacing:-.02em;
+}
+
+h1{
+  font-weight:800;
+  line-height:1.05;
+}
+
+h2{
+  margin-top:1.6em;
+  font-weight:750;
+}
+
+h3{
+  font-weight:700;
+}
+
+.eyebrow{
+  color:var(--accent);
+  font-weight:800;
+  letter-spacing:.14em;
+}
+
+.lead,
+.subtitle,
+.intro{
+  color:var(--muted);
+}
+
+/* Panels / cards */
+.panel,
+.card,
+.quick,
+.evidence,
+.notice,
+.game-card,
+.question-card{
+  background:var(--surface);
+  border:1px solid var(--line);
+  border-radius:10px;
+  box-shadow:none;
+}
+
+.panel,
+.card,
+.game-card,
+.question-card{
+  transition:transform .16s ease, box-shadow .16s ease, border-color .16s ease;
+}
+
+.panel:hover,
+.card:hover,
+.game-card:hover,
+.question-card:hover{
+  transform:translateY(-2px);
+  border-color:#c8d0d6;
+  box-shadow:var(--shadow);
+}
+
+.quick{
+  background:var(--surface-alt);
+  border-left:4px solid var(--accent);
+}
+
+.evidence{
+  background:#f8fafb;
+  border-left:4px solid #5e7180;
+}
+
+.notice{
+  background:var(--accent-soft);
+  border-left:4px solid var(--accent);
+}
+
+/* Details / syllabus sections */
+details{
+  background:var(--surface);
+  border:1px solid var(--line);
+  border-radius:10px;
+  margin:14px 0;
+  overflow:hidden;
+  box-shadow:none;
+}
+
+details[open]{
+  box-shadow:0 8px 24px rgba(24,33,42,.055);
+}
+
+summary{
+  background:var(--surface);
+  color:var(--ink);
+  padding:16px 18px;
+  font-weight:750;
+  cursor:pointer;
+  border-bottom:1px solid transparent;
+}
+
+details[open] summary{
+  background:#fafbfc;
+  border-bottom-color:var(--line);
+}
+
+details > p,
+details > ul,
+details > ol,
+details > .grid,
+details > .quick,
+details > .evidence,
+details > div:not(.panel){
+  margin-left:18px;
+  margin-right:18px;
+}
+
+details > p:first-of-type{
+  margin-top:18px;
+}
+
+details > p:last-child,
+details > ul:last-child,
+details > ol:last-child{
+  margin-bottom:18px;
+}
+
+/* Buttons */
+button,
+.btn,
+.button,
+a.btn,
+a.button{
+  background:var(--nav);
+  color:#fff;
+  border:1px solid var(--nav);
+  border-radius:7px;
+  font-weight:750;
+  box-shadow:none;
+  transition:transform .14s ease,background .14s ease,border-color .14s ease;
+}
+
+button:hover,
+.btn:hover,
+.button:hover,
+a.btn:hover,
+a.button:hover{
+  background:var(--accent);
+  border-color:var(--accent);
+  transform:translateY(-1px);
+}
+
+button.secondary,
+.btn.secondary,
+.button.secondary{
+  background:var(--surface);
+  color:var(--ink);
+  border-color:var(--line);
+}
+
+button.secondary:hover,
+.btn.secondary:hover,
+.button.secondary:hover{
+  background:var(--surface-alt);
+  border-color:#c3cbd1;
+}
+
+/* Links */
+a{
+  color:var(--accent-dark);
+}
+
+a:hover{
+  color:var(--accent);
+}
+
+/* Tables */
+table{
+  background:var(--surface);
+  border:1px solid var(--line);
+  border-radius:9px;
+  overflow:hidden;
+  box-shadow:none;
+}
+
+th{
+  background:var(--nav);
+  color:#fff;
+  border-color:#2a3944;
+}
+
+td{
+  border-color:var(--line);
+}
+
+tr:nth-child(even) td{
+  background:#fafbfc;
+}
+
+/* Inputs */
+input,
+select,
+textarea{
+  background:#fff;
+  color:var(--ink);
+  border:1px solid #cbd3d9;
+  border-radius:7px;
+}
+
+input:focus,
+select:focus,
+textarea:focus{
+  outline:2px solid rgba(178,58,72,.18);
+  border-color:var(--accent);
+}
+
+/* Game / quiz feedback */
+.correct,
+.good,
+.success{
+  border-color:#b9d3c7 !important;
+  background:#edf6f1 !important;
+  color:#245643 !important;
+}
+
+.incorrect,
+.bad,
+.error{
+  border-color:#e1bec3 !important;
+  background:#faeef0 !important;
+  color:#7e2934 !important;
+}
+
+/* Compact link areas */
+.compact-links,
+.game-links{
+  gap:10px;
+}
+
+.compact-links a,
+.game-links a{
+  background:var(--surface);
+  border:1px solid var(--line);
+  border-radius:7px;
+  color:var(--ink);
+  text-decoration:none;
+}
+
+.compact-links a:hover,
+.game-links a:hover{
+  border-color:var(--accent);
+  color:var(--accent-dark);
+  background:#fff;
+}
+
+/* Footer */
+footer{
+  color:#7b868f;
+  border-top:1px solid var(--line);
+}
+
+/* Slightly cleaner selection */
+::selection{
+  background:#ead1d5;
+  color:var(--ink);
+}
+
+/* Mobile */
+@media(max-width:800px){
+  main{
+    padding-top:24px;
+  }
+
+  .topbar-inner{
+    gap:12px;
+  }
+
+  .topbar nav{
+    gap:4px;
+  }
+
+  details{
+    border-radius:8px;
+  }
+}
